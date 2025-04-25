@@ -20,6 +20,12 @@ A desktop application that detects human emotions from facial images using a tra
 The app uses a model (`emotion_recognition_model.h5`) trained on FER-2013 dataset. It processes images in grayscale and outputs a probability distribution across 7 emotion classes.
 
 ---
+## Preview
+
+<img width="956" alt="Screenshot 2025-04-26 014834" src="https://github.com/user-attachments/assets/8f6c2bef-38de-4fc6-9ed1-fdb22cbfd604" />
+
+---
+
 
 
 
