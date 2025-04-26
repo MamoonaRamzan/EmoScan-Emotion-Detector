@@ -22,7 +22,12 @@ The app uses a model (`emotion_recognition_model.h5`) trained on FER-2013 datase
 ---
 ## Preview
 
-<img width="956" alt="Screenshot 2025-04-26 014834" src="https://github.com/user-attachments/assets/8f6c2bef-38de-4fc6-9ed1-fdb22cbfd604" />
+<img width="552" alt="Screenshot 2025-04-26 133742" src="https://github.com/user-attachments/assets/c582e3d1-92a4-4506-8d4a-74f7e5ada615" />
+<img width="552" alt="Screenshot 2025-04-26 133855" src="https://github.com/user-attachments/assets/9754c8d0-f3d1-4e51-afcf-d82ddebf349e" />
+<img width="552" alt="Screenshot 2025-04-26 133945" src="https://github.com/user-attachments/assets/7b50154e-ebb7-49fc-a269-d030eab98429" />
+
+
+
 
 ---
 
