@@ -1,4 +1,4 @@
-# 🎭 Emotion Detector
+# 🎭 EmoScan:Emotion Detector
 
 A desktop application that detects human emotions from facial images using a trained deep learning model. It supports image uploads and displays both the predicted emotion and confidence score in a polished, modern interface 
 
