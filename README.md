@@ -2,8 +2,6 @@
 
 A desktop application that detects human emotions from facial images using a trained deep learning model. It supports image uploads and displays both the predicted emotion and confidence score in a polished, modern interface 
 
----
-
 ## 🚀 Features
 
 - 📷 Upload facial images (JPG, PNG)
@@ -19,7 +17,6 @@ A desktop application that detects human emotions from facial images using a tra
 
 The app uses a model (`emotion_recognition_model.h5`) trained on FER-2013 dataset. It processes images in grayscale and outputs a probability distribution across 7 emotion classes.
 
----
 ## Preview
 
 <img width="552" alt="Screenshot 2025-04-26 133742" src="https://github.com/user-attachments/assets/c582e3d1-92a4-4506-8d4a-74f7e5ada615" />
